@@ -1,0 +1,11 @@
+current_map: "map_1"
+checkpoints:
+  map_1:
+    - world: "world"
+      x: 1
+      y: 1
+      z: 1
+    - world: "world"
+      x: 2
+      y: 2
+      z: 2

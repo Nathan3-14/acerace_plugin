@@ -1,0 +1,17 @@
+name: ace_race
+version: '1.0-SNAPSHOT'
+main: nathan314.ace_race.Acerace
+api-version: '1.21'
+commands:
+  savecheckpoint:
+    description: "Registers a new checkpoint"
+    usage: "/<command> <x> <y> <z>"
+  resetcheckpoints:
+    description: "Resets selected player's checkpoints"
+    usage: "/<command> <player>"
+  goto:
+    description: "Go to selected checkpoint"
+    usage: "/<command> <checkpoint_id>"
+  changemap:
+    description: "Changes the currently selected map"
+    usage: "/<command> <new_map>"
