@@ -1,5 +1,5 @@
 name: ace_race
-version: '1.0-SNAPSHOT'
+version: '2.0'
 main: nathan314.ace_race.Acerace
 api-version: '1.21'
 commands:
